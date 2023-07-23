@@ -29,7 +29,7 @@ class Jogo:
 
         # Lista de caminhos das imagens de obstáculos
         self.obstaculo_imagens = [
-            r"images/disco_voador_tras.png",
+            r"images\disco_voador_tras.png",
             r"images\disco1_tras.png",
             r"images\disco2_tras.png"
         ]
