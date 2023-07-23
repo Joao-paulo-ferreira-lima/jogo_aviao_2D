@@ -29,9 +29,9 @@ class Jogo:
 
         # Lista de caminhos das imagens de obstáculos
         self.obstaculo_imagens = [
-            r"C:\Users\WIN10\PycharmProjects\jogo_python\images/disco_voador_tras.png",
-            r"C:\Users\WIN10\PycharmProjects\jogo_python\images\disco1_tras.png",
-            r"C:\Users\WIN10\PycharmProjects\jogo_python\images\disco2_tras.png"
+            r"images/disco_voador_tras.png",
+            r"images\disco1_tras.png",
+            r"images\disco2_tras.png"
         ]
 
         # Defina o intervalo mínimo entre tiros em milissegundos (1000ms = 1 segundo)
